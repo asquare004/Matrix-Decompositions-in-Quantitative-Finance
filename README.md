@@ -1,1 +1,1 @@
-# -Matrix-Decompositions-in-Quantitative-Finance
+# Matrix-Decompositions-in-Quantitative-Finance
